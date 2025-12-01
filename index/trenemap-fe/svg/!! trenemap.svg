@@ -1,0 +1,1034 @@
+<svg width="8840" height="3864" viewBox="0 0 8840 3864" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_401_2)">
+        <rect width="8840" height="3864" fill="white"/>
+        <path d="M3768.5 -96H8057H8934C8939.52 -96 8944 -91.5228 8944 -86V3916.5C8944 3922.02 8939.52 3926.5 8934 3926.5H8599.5C8599.5 3927.05 8599.05 3927.5 8598.5 3927.5H4391H3933.5H1800.14C1797.49 3927.5 1794.95 3926.45 1793.07 3924.57L1715 3846.5L1498 3629.5H-174C-179.523 3629.5 -184 3625.02 -184 3619.5V-86.5C-184 -92.0228 -179.523 -96.5 -174 -96.5H1769C1769 -96.2239 1769.22 -96 1769.5 -96H3768.5Z" fill="#F7FFF9"/>
+        <path d="M8057 -96H3768.5H1769.5C1769.22 -96 1769 -96.2239 1769 -96.5M8057 -96L8811.57 658.571C8813.45 660.446 8814.5 662.99 8814.5 665.642V708C8814.5 713.523 8810.02 718 8804.5 718H8688.14C8685.49 718 8682.95 719.054 8681.07 720.929L8660.43 741.571C8658.55 743.446 8657.5 745.99 8657.5 748.642V881C8657.5 886.523 8661.98 891 8667.5 891H8804.5C8810.02 891 8814.5 895.477 8814.5 901V1229.5C8814.5 1235.02 8810.02 1239.5 8804.5 1239.5H8609.5C8603.98 1239.5 8599.5 1243.98 8599.5 1249.5V3926.5M8057 -96H8934C8939.52 -96 8944 -91.5228 8944 -86V3916.5C8944 3922.02 8939.52 3926.5 8934 3926.5H8599.5M1769 -96.5V1232C1769 1237.52 1773.48 1242 1779 1242H2265M1769 -96.5H-174C-179.523 -96.5 -184 -92.0228 -184 -86.5V3619.5C-184 3625.02 -179.523 3629.5 -174 3629.5H1498M8599.5 3926.5C8599.5 3927.05 8599.05 3927.5 8598.5 3927.5H4391M2265 1242H2413.5C2419.02 1242 2423.5 1246.48 2423.5 1252V1829.5C2423.5 1835.02 2427.98 1839.5 2433.5 1839.5H4113C4118.52 1839.5 4123 1843.98 4123 1849.5V3197.86C4123 3200.51 4124.05 3203.05 4125.93 3204.93L4388.07 3467.07C4389.95 3468.95 4391 3471.49 4391 3474.14V3927.5M2265 1242V1829.5C2265 1835.02 2260.52 1839.5 2255 1839.5H1164C1158.48 1839.5 1154 1843.98 1154 1849.5V3281.36C1154 3284.01 1155.05 3286.55 1156.93 3288.43L1498 3629.5M1498 3629.5L1715 3846.5L1793.07 3924.57C1794.95 3926.45 1797.49 3927.5 1800.14 3927.5H3933.5H4391" stroke="#2A9C4A" stroke-width="1.5"/>
+        <path d="M5620 944.429V920V893C5620 890.239 5622.24 888 5625 888H5732.93C5734.26 888 5735.53 888.527 5736.46 889.464L5765.54 918.536C5766.47 919.473 5767.74 920 5769.07 920H5915C5917.76 920 5920 917.761 5920 915V823C5920 820.239 5922.24 818 5925 818H5980C5982.76 818 5985 820.239 5985 823V901C5985 903.761 5987.24 906 5990 906H6069C6071.76 906 6074 903.761 6074 901V849C6074 846.239 6071.76 844 6069 844H6046.5C6043.74 844 6041.5 841.761 6041.5 839V823C6041.5 820.239 6043.74 818 6046.5 818H6086C6088.76 818 6091 820.239 6091 823V877.5C6091 880.261 6093.24 882.5 6096 882.5H6252C6254.76 882.5 6257 884.739 6257 887.5V962C6257 964.761 6254.76 967 6252 967H6145C6142.24 967 6140 969.239 6140 972V1028.5C6140 1031.26 6137.76 1033.5 6135 1033.5H6109.5C6106.74 1033.5 6104.5 1035.74 6104.5 1038.5V1067C6104.5 1069.76 6106.74 1072 6109.5 1072H6135C6137.76 1072 6140 1074.24 6140 1077V1152C6140 1154.76 6142.24 1157 6145 1157H6158.5C6161.26 1157 6163.5 1159.24 6163.5 1162V1180.43C6163.5 1181.76 6164.03 1183.03 6164.96 1183.96L6174.46 1193.46C6176.42 1195.42 6176.42 1198.58 6174.46 1200.54L6111.46 1263.54C6110.53 1264.47 6109.26 1265 6107.93 1265H5889.07C5887.74 1265 5886.47 1265.53 5885.54 1266.46L5829.46 1322.54C5828.53 1323.47 5828 1324.74 5828 1326.07V1374C5828 1376.76 5825.76 1379 5823 1379H5793.5C5790.74 1379 5788.5 1376.76 5788.5 1374V1260.5C5788.5 1257.74 5786.26 1255.5 5783.5 1255.5H5653.57C5652.24 1255.5 5650.97 1254.97 5650.04 1254.04L5579.96 1183.96C5579.03 1183.03 5578.5 1181.76 5578.5 1180.43V1140C5578.5 1137.24 5576.26 1135 5573.5 1135H5544C5541.24 1135 5539 1132.76 5539 1130V1118C5539 1115.24 5541.24 1113 5544 1113H5634C5636.76 1113 5639 1110.76 5639 1108V987.5V967.571C5639 966.245 5638.47 964.973 5637.54 964.036L5621.46 947.964C5620.53 947.027 5620 945.755 5620 944.429Z" fill="#E6EDF6" stroke="black"/>
+        <path d="M3901.5 3520V3504V3451.5C3901.5 3448.74 3903.74 3446.5 3906.5 3446.5H4144.93C4146.26 3446.5 4147.53 3445.97 4148.46 3445.04L4214.96 3378.54C4216.92 3376.58 4220.08 3376.58 4222.04 3378.54L4291.96 3448.46C4293.92 3450.42 4293.92 3453.58 4291.96 3455.54L4191.46 3556.04C4190.53 3556.97 4189.26 3557.5 4187.93 3557.5H4104.07C4102.74 3557.5 4101.47 3558.03 4100.54 3558.96L4047.46 3612.04C4046.53 3612.97 4045.26 3613.5 4043.93 3613.5H3850C3847.24 3613.5 3845 3611.26 3845 3608.5V3604.5C3845 3601.74 3847.24 3599.5 3850 3599.5H3900.5C3903.26 3599.5 3905.5 3597.26 3905.5 3594.5V3573.57C3905.5 3572.24 3904.97 3570.97 3904.04 3570.04L3867.54 3533.54C3864.39 3530.39 3866.62 3525 3871.07 3525H3896.5C3899.26 3525 3901.5 3522.76 3901.5 3520Z" fill="#E6EDF6" stroke="black"/> 
+        <path d="M8676 1131V1100" stroke="black" stroke-width="4"/>
+        <path d="M8676 1100V1072" stroke="black" stroke-width="4"/>
+        <path d="M8676 1072V1044" stroke="black" stroke-width="4"/>
+        <path d="M8676 1044V1016" stroke="black" stroke-width="4"/>
+        <path d="M8676 1016V988" stroke="black" stroke-width="4"/>
+        <path d="M8676 988V960" stroke="black" stroke-width="4"/>
+        <path d="M8676 960V932" stroke="black" stroke-width="4"/>
+        <path d="M8676 932V904" stroke="black" stroke-width="4"/>
+        <path d="M8676 904V876" stroke="black" stroke-width="4"/>
+        <path d="M8676 876V848" stroke="black" stroke-width="4"/>
+        <path d="M8676 848V820" stroke="black" stroke-width="4"/>
+        <path d="M8676 820V792" stroke="black" stroke-width="4"/>
+        <path d="M8676 792V764" stroke="black" stroke-width="4"/>
+        <path d="M8676 764V748.284C8676 742.98 8673.89 737.893 8670.14 734.142L8647.5 711.5" stroke="black" stroke-width="4"/>
+        <path d="M3130.5 899.5L3171.5 858.5" stroke="black" stroke-width="4"/>
+        <path d="M3171.5 858.5L3212.5 817.5" stroke="black" stroke-width="4"/>
+        <path d="M3212.5 817.5L3253.5 776.5" stroke="black" stroke-width="4"/>
+        <path d="M3253.5 776.5L3294.5 735.5" stroke="black" stroke-width="4"/>
+        <path d="M3294.5 735.5L3335.5 694.5" stroke="black" stroke-width="4"/>
+        <path d="M3335.5 694.5L3376.5 653.5" stroke="black" stroke-width="4"/>
+        <path d="M3376.5 653.5L3417.5 612.5" stroke="black" stroke-width="4"/>
+        <path d="M3417.5 612.5L3458.5 571.5" stroke="black" stroke-width="4"/>
+        <path d="M3458.5 571.5L3499.5 530.5" stroke="black" stroke-width="4"/>
+        <path d="M3499.5 530.5L3543.5 486.5" stroke="black" stroke-width="4"/>
+        <path d="M3543.5 486.5L3584.5 445.5" stroke="black" stroke-width="4"/>
+        <path d="M3584.5 445.5L3625.5 404.5" stroke="black" stroke-width="4"/>
+        <path d="M3625.5 404.5L3666.5 363.5" stroke="black" stroke-width="4"/>
+        <path d="M3666.5 363.5L3707.5 322.5" stroke="black" stroke-width="4"/>
+        <path d="M3707.5 322.5L3748.5 281.5" stroke="black" stroke-width="4"/>
+        <path d="M3748.5 281.5L3789.5 240.5" stroke="black" stroke-width="4"/>
+        <path d="M3789.5 240.5L3830.5 199.5" stroke="black" stroke-width="4"/>
+        <path d="M3830.5 199.5L3872 158" stroke="black" stroke-width="4"/>
+        <path d="M3872 158L3912.5 117.5" stroke="black" stroke-width="4"/>
+        <path d="M3912.5 117.5L3920.86 109.142C3928.67 101.332 3928.67 88.6684 3920.86 80.8579L3892 52" stroke="black" stroke-width="4"/>
+        <path d="M3030.5 1231V1242.5C3030.5 1253.55 3021.55 1262.5 3010.5 1262.5H2805.5" stroke="black" stroke-width="4"/>
+        <path d="M2805.5 1262.5H2720.5" stroke="black" stroke-width="4"/>
+        <path d="M2720.5 1262.5H2458" stroke="black" stroke-width="4"/>
+        <path d="M2458 1262.5H2181.5" stroke="black" stroke-width="4"/>
+        <path d="M2181.5 1262.5H1914.5" stroke="black" stroke-width="4"/>
+        <path d="M1914.5 1262.5H1896.78C1891.48 1262.5 1886.39 1264.61 1882.64 1268.36L1855.5 1295.5" stroke="black" stroke-width="4"/>
+        <path d="M2720 3520.5H2734C2745.05 3520.5 2754 3529.45 2754 3540.5V3568.72C2754 3574.02 2751.89 3579.11 2748.14 3582.86L2729.5 3601.5" stroke="black" stroke-width="4"/>
+        <path d="M2729.5 3601.5L2703.5 3627.5" stroke="black" stroke-width="4"/>
+        <path d="M2703.5 3627.5L2677.5 3653.5" stroke="black" stroke-width="4"/>
+        <path d="M2677.5 3653.5L2651.5 3679.5" stroke="black" stroke-width="4"/>
+        <path d="M2651.5 3679.5L2625.5 3705.5" stroke="black" stroke-width="4"/>
+        <path d="M2625.5 3705.5L2599.5 3731.5" stroke="black" stroke-width="4"/>
+        <path d="M2599.5 3731.5L2573.5 3757.5" stroke="black" stroke-width="4"/>
+        <path d="M2573.5 3757.5L2547.5 3783.5" stroke="black" stroke-width="4"/>
+        <path d="M2547.5 3783.5L2518 3813" stroke="black" stroke-width="4"/>
+        <path d="M3857 3830.5V3795C3857 3783.95 3865.95 3775 3877 3775H3898" stroke="black" stroke-width="4"/>
+        <path d="M5401.5 2214.5L5353.5 2262.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5353.5 2262.5L5305.5 2310.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5305.5 2310.5L5257.5 2358.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5257.5 2358.5L5209.5 2406.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5209.5 2406.5L5161.5 2454.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5161.5 2454.5L5113.5 2502.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5113.5 2502.5L5065.5 2550.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5065.5 2550.5L5017.5 2598.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5017.5 2598.5L4969.5 2646.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4969.5 2646.5L4921.5 2694.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4921.5 2694.5L4873.5 2742.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4873.5 2742.5L4825.5 2790.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4825.5 2790.5L4777.5 2838.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4777.5 2838.5L4729.5 2886.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4729.5 2886.5L4681.5 2934.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4681.5 2934.5L4633.5 2982.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4633.5 2982.5L4585.5 3030.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4585.5 3030.5L4537.5 3078.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4537.5 3078.5L4489.5 3126.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4489.5 3126.5L4441.5 3174.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4441.5 3174.5L4393.5 3222.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4393.5 3222.5L4345.5 3270.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4345.5 3270.5L4297.5 3318.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4297.5 3318.5L4249.5 3366.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3844 3520.5H3778" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3778 3520.5H3711.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3711.5 3520.5H3645.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3645.5 3520.5H3579.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3579.5 3520.5H3513.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3513.5 3520.5H3447" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3447 3520.5H3381" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3381 3520.5H3315" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3315 3520.5H3248.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3248.5 3520.5H3182.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3182.5 3520.5H3116.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3116.5 3520.5H3050.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3050.5 3520.5H2984.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2984.5 3520.5H2918" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2918 3520.5H2852" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2852 3520.5H2786" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2786 3520.5H2720" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2720 3520.5H2653.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2653.5 3520.5H2587.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2587.5 3520.5H2521.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2521.5 3520.5H2455.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2455.5 3520.5H2389" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2389 3520.5H2323.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2323.5 3520.5H2257.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2257.5 3520.5H2191" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2191 3520.5H2125" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2125 3520.5H2058.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2058.5 3520.5H1992.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1992.5 3520.5H1926.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1926.5 3520.5H1852" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1852 3520.5H1783" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1783 3520.5H1714" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1714 3520.5H1645" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1645 3520.5H1576.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1576.5 3520.5H1507.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1507.5 3520.5H1438.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1438.5 3520.5H1369.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1369.5 3520.5H1300.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1300.5 3520.5H1232" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1232 3520.5H1163" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1163 3520.5H1094" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1094 3520.5H1025.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1025.5 3520.5H956.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M956.5 3520.5H887.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M887.5 3520.5H818.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M818.5 3520.5H749.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M749.5 3520.5H680.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M680.5 3520.5H612" stroke="#2B469D" stroke-width="4"/>
+        <path d="M612 3520.5H543" stroke="#2B469D" stroke-width="4"/>
+        <path d="M543 3520.5H474.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M474.5 3520.5H405" stroke="#2B469D" stroke-width="4"/>
+        <path d="M405 3520.5H336.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M336.5 3520.5H267.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M267.5 3520.5H198.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M198.5 3520.5H110.95C107.78 3520.5 104.741 3521.76 102.5 3524C100.259 3526.24 97.2195 3527.5 94.0503 3527.5H85.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M85.5 3527.5H77.9497C74.7805 3527.5 71.741 3526.24 69.5 3524C67.259 3521.76 64.2195 3520.5 61.0503 3520.5H37" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5607 930H5560.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5560.5 930H5514" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5514 930H5467" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5467 930H5420.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5420.5 930H5374" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5374 930H5327.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5327.5 930H5280.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5280.5 930H5233.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5233.5 930H5188" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5188 930H5140" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5140 930H5094.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5094.5 930H5047.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5047.5 930H5001.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5001.5 930H4954" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4954 930H4907.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4907.5 930H4861" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4861 930H4814" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4814 930H4768" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4768 930H4721.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4721.5 930H4675" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4675 930H4627.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4627.5 930H4581.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4581.5 930H4535" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4535 930H4487.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4487.5 930H4441.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4441.5 930H4395.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4395.5 930H4348.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4348.5 930H4302" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4302 930H4255.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4255.5 930H4208.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4208.5 930H4162" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4162 930H4115" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4115 930H4061" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4061 930H3985" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3985 930H3908.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3908.5 930H3832" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3832 930H3755.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3755.5 930H3678.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3678.5 930H3602" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3602 930H3525.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3525.5 930H3449" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3449 930H3372.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3372.5 930H3296" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3296 930H3219" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3219 930H3142.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3142.5 930H3066" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3066 930H2989.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2989.5 930H2913" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2913 930H2836" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2836 930H2760" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2760 930H2683" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2683 930H2606.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2606.5 930H2530.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2530.5 930H2453.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2453.5 930H2377" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2377 930H2300.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2300.5 930H2224" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2224 930H2147.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2147.5 930H2070.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M2070.5 930H1994" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1994 930H1917.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M1917.5 930H1858.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6757.5 1290V1251" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6733.5 1321H6737.5C6748.55 1321 6757.5 1312.05 6757.5 1301V1290" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6709.5 1321H6733.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6684.5 1321H6709.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6659.5 1321H6684.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6634.5 1321H6659.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6614.5 1321H6634.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6594.5 1321H6614.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6569.5 1321H6594.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6545.5 1321H6569.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6524.5 1321H6545.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6500.5 1321H6524.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6476.5 1321H6500.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6455.5 1321H6476.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6430.5 1321H6455.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6405.5 1321H6430.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6380.5 1321H6405.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6359.5 1321H6380.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6338.5 1321H6359.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6317.5 1321H6338.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6292.5 1321H6317.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6267.5 1321H6292.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6243.5 1321H6267.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6218.5 1321H6243.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1292V1301C6192 1312.05 6200.95 1321 6212 1321H6218.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1277V1292" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1262V1277" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1247V1262" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1232V1247" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1217V1232" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1202V1217" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1187V1202" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6192 1187C6192 1175.68 6182.82 1166.5 6171.5 1166.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6146.5 1166.5H6171.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6146.5 1166.5C6138.3 1166.5 6123.7 1166.5 6115.5 1166.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8635.5 1166.5L8664.72 1166.5C8670.02 1166.5 8675.11 1168.61 8678.86 1172.36L8683.5 1177" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8635.5 1166.5H8598.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8598.5 1166.5H8561.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8561.5 1166.5H8524.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8524.5 1166.5H8487.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8487.5 1166.5H8450.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8450.5 1166.5H8413.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8413.5 1166.5H8376.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8376.5 1166.5H8343" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8343 1166.5H8306.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8306.5 1166.5H8269.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8269.5 1166.5H8232.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8232.5 1166.5H8195.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8195.5 1166.5H8158.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8158.5 1166.5H8121.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8121.5 1166.5H8084.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8084.5 1166.5H8046.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8046.5 1166.5H8009.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M8009.5 1166.5H7972.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7972.5 1166.5H7935.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7935.5 1166.5H7898.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7898.5 1166.5H7861.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7861.5 1166.5H7824.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7824.5 1166.5H7787.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7787.5 1166.5H7750.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7750.5 1166.5H7713.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7713.5 1166.5H7676.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7676.5 1166.5H7639.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7639.5 1166.5H7602.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7602.5 1166.5H7565.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7565.5 1166.5H7528.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7528.5 1166.5H7491.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7491.5 1166.5H7454.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7454.5 1166.5H7417.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7417.5 1166.5H7380.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7380.5 1166.5H7343.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7343.5 1166.5H7306.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7306.5 1166.5H7269.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7269.5 1166.5H7232.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7232.5 1166.5H7195.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7195.5 1166.5H7158.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7158.5 1166.5H7121.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7121.5 1166.5H7085" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7085 1166.5H7030.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M7030.5 1166.5H6976.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6976.5 1166.5H6922.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6922.5 1166.5H6868.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6868.5 1166.5H6777.5C6766.45 1166.5 6757.5 1175.45 6757.5 1186.5V1251" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1231V1198" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1198V1165" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1165V1132" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1132V1099" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1099V1066" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1066V1033" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1033V1000" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3030.5 1000V950C3030.5 938.954 3039.45 930 3050.5 930H3066" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3066 930H3091.72C3097.02 930 3102.11 927.893 3105.86 924.142L3130.5 899.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5782 1834L5833.5 1782.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5833.5 1782.5L5881.5 1734.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5881.5 1734.5L5929.5 1686.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5929.5 1686.5L5977.5 1638.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5977.5 1638.5L6025.5 1590.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6025.5 1590.5L6073.5 1542.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6073.5 1542.5L6127.64 1488.36C6131.39 1484.61 6136.48 1482.5 6141.78 1482.5H6155.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6155.5 1482.5H6426" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6426 1482.5H6713" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6713 1482.5H6796.5C6807.55 1482.5 6816.5 1473.55 6816.5 1462.5V1449" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6816.5 1449V1386" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6816.5 1386V1323" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6816.5 1323V1260" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6816.5 1260L6816.5 1245C6816.5 1233.95 6807.55 1225 6796.5 1225H6788.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6757.5 1251V1245C6757.5 1233.95 6766.45 1225 6777.5 1225H6789.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5696.5 942.5L5707.64 953.642C5711.39 957.393 5716.48 959.5 5721.78 959.5H5824.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5824.5 959.5H5857.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5857.5 959.5H5918" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5809.5 1166.5H5743" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5743 1166.5H5696.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5696.5 1166.5H5650" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5650 1166.5H5603" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5603 1166.5H5557" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5557 1166.5H5510" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5510 1166.5H5463.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5463.5 1166.5H5413.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5413.5 1166.5H5366.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5366.5 1166.5H5319.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6115.5 1166.5C6097.15 1166.5 6089.85 1166.5 6071.5 1166.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6071.5 1166.5C6053.34 1166.5 6045.66 1166.5 6027.5 1166.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M6027.5 1166.5H5984.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5984.5 1166.5C5966.93 1166.5 5959.07 1166.5 5941.5 1166.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5941.5 1166.5H5897.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5897.5 1166.5H5853.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5853.5 1166.5H5809.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5809.5 1166.5H5783.5C5772.45 1166.5 5763.5 1157.55 5763.5 1146.5V1138" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5763.5 1138V1087" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5763.5 1087V1059" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5763.5 1059V1031" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5763.5 1031V1017.78C5763.5 1012.48 5761.39 1007.39 5757.64 1003.64L5747.5 993.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5747.5 993.5L5696.5 942.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5696.5 942.5L5689.86 935.858C5686.11 932.107 5681.02 930 5675.72 930H5653.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M5653.5 930H5607" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4249.5 3366.5L4201.5 3414.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4201.5 3414.5L4153.5 3462.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4153.5 3462.5L4105.5 3510.5" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4105.5 3510.5L4101.36 3514.64C4097.61 3518.39 4092.52 3520.5 4087.22 3520.5H4042" stroke="#2B469D" stroke-width="4"/>
+        <path d="M4042 3520.5H3976" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3976 3520.5H3910" stroke="#2B469D" stroke-width="4"/>
+        <path d="M3910 3520.5H3844" stroke="#2B469D" stroke-width="4"/>
+        <rect x="8672" y="1134.5" width="8" height="8" rx="1" transform="rotate(-90 8672 1134.5)" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="8686" y="1134.8">&#x420;&#x435;&#x448;&#x43e;&#x442;&#x44b;-&#x421;&#x435;&#x432;&#x435;&#x440;&#x43d;&#x44b;&#x435;</tspan></text>
+        <circle cx="8676" cy="1100" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 1095)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x440;&#x43e;&#x445;&#x43b;&#x430;&#x434;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="8676" cy="1072" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 1067)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43d;&#x438;&#x444;&#x43e;&#x43b;&#x44c;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="8676" cy="1044" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 1039)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x431;&#x430;&#x433;&#x430;&#x448;&#x435;&#x442;</tspan></text>
+        <circle cx="8676" cy="1016" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 1011)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42e;&#x436;&#x43d;&#x430;&#x44f; &#x422;&#x443;&#x43d;&#x433;&#x443;&#x441;&#x43a;&#x430;</tspan></text>
+        <circle cx="8676" cy="988" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 983)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x43a;&#x430;&#x43d;&#x430;&#x435;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="8676" cy="960" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 955)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">58 &#x43a;&#x43c;</tspan></text>
+        <circle cx="8676" cy="932" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 927)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x438;&#x43b;&#x438;&#x447;&#x435;&#x442;</tspan></text>
+        <circle cx="8676" cy="904" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 899)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43b;&#x430;&#x448;&#x435;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="8676" cy="876" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 871)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x435;&#x440;&#x43c;&#x430;&#x43d;&#x447;&#x435;&#x442;</tspan></text>
+        <circle cx="8676" cy="848" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 843)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x435;&#x43b;&#x430;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="8676" cy="820" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 815)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x43e;&#x432;&#x43e;&#x431;&#x438;&#x440;&#x44e;&#x441;&#x438;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="8676" cy="792" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 787)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x430;&#x440;&#x435;&#x432;&#x43e;&#x439;</tspan></text>
+        <circle cx="8676" cy="764" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(8684.5 759)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x43c;&#x442;&#x430;&#x447;&#x435;&#x442;</tspan></text>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="8641" y="696.802">&#x427;&#x443;&#x43d;&#x43e;&#x44f;&#x440;</tspan></text>
+        <rect x="8648.07" y="717.728" width="8" height="8" rx="1" transform="rotate(-135 8648.07 717.728)" fill="white" stroke="black" stroke-width="2"/>
+        <circle cx="3171.5" cy="858.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3168 867)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x430;&#x43f;&#x448;&#x438;&#x445;&#x430;</tspan></text>
+        <circle cx="3212.5" cy="817.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3209 826)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x443;&#x43b;&#x430;&#x442;</tspan></text>
+        <circle cx="3253.5" cy="776.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3250 785)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x437;&#x44b;&#x43a;-&#x427;&#x443;&#x43b;&#x44c;</tspan></text>
+        <circle cx="3294.5" cy="735.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3291 744)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x451;&#x436;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3335.5" cy="694.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3332 703)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x43b;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="3376.5" cy="653.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3373 662)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x44b;&#x442;&#x430;&#x442;</tspan></text>
+        <circle cx="3417.5" cy="612.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3414 621)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x438;&#x43f;&#x440;&#x435;&#x439;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="3458.5" cy="571.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3455 580)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x43b;&#x430;&#x43d;&#x43e;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="3499.5" cy="530.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3496 539)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x443;&#x440;&#x438;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="3543.5" cy="486.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3540 495)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x430;&#x43d;&#x438;&#x43d;&#x430; &#x413;&#x430;&#x440;&#x44c;</tspan></text>
+        <circle cx="3584.5" cy="445.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3581 454)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x430;&#x43b;&#x430;&#x44f; &#x41a;&#x435;&#x442;&#x44c;</tspan></text>
+        <circle cx="3625.5" cy="404.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3622 413)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x430;&#x439;&#x434;&#x430;</tspan></text>
+        <circle cx="3666.5" cy="363.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3663 372)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x43c;&#x430;&#x440;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="3707.5" cy="322.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3704 331)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x43b;&#x44c;&#x448;&#x430;&#x44f; &#x41a;&#x435;&#x442;&#x44c;</tspan></text>
+        <circle cx="3748.5" cy="281.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3745 290)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x43a;&#x448;&#x443;&#x440;&#x43c;&#x430;</tspan></text>
+        <circle cx="3789.5" cy="240.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3786 249)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x438;&#x440;&#x43e;&#x432;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="3830.5" cy="199.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3827 208)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="3871.5" cy="158.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3868 167)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x435;&#x43c;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="3912.5" cy="117.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(3909 126)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x431;&#x430;&#x43b;&#x430;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="3885" y="36.802">&#x41b;&#x435;&#x441;&#x43e;&#x441;&#x438;&#x431;&#x438;&#x440;&#x441;&#x43a;-1</tspan></text>
+        <rect x="3892.07" y="46.4142" width="8" height="8" rx="1" transform="rotate(45 3892.07 46.4142)" fill="white" stroke="black" stroke-width="2"/>
+        <circle cx="2805.5" cy="1262.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2809.07 1271) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x443;&#x448;&#x44c;</tspan></text>
+        <circle cx="2720.27" cy="1262.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2723.84 1271) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x443;&#x431;&#x438;&#x43d;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="2457.57" cy="1262.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2461.15 1271) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x43d;&#x433;&#x43e;&#x43b;&#x44c;</tspan></text>
+        <circle cx="2181.44" cy="1262.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2185.01 1271) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x43b;&#x443;&#x442;&#x43e;&#x440;&#x43d;&#x438;&#x43a;</tspan></text>
+        <circle cx="1914.5" cy="1262.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(1918.07 1271) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x43b;&#x430;&#x43d;&#x433;&#x430;</tspan></text>
+        <rect x="1855.93" y="1289.41" width="8" height="8" rx="1" transform="rotate(45 1855.93 1289.41)" fill="white" stroke="black" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1774" y="1318.94">&#x41a;&#x438;&#x44f;-&#x428;&#x430;&#x43b;&#x442;&#x44b;&#x440;&#x44c;</tspan></text>
+        <circle cx="2729.5" cy="3601.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2726 3610)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x43b;&#x44c;&#x442;&#x44b;&#x440;&#x44b;</tspan></text>
+        <circle cx="2703.5" cy="3627.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2700 3636)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x43e;&#x440;&#x43e;&#x448;&#x438;&#x43b;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="2677.5" cy="3653.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2674 3662)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x441;&#x442;&#x44c;-&#x415;&#x441;&#x44c;</tspan></text>
+        <circle cx="2651.5" cy="3679.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2648 3688)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x441;&#x442;&#x44c;-&#x422;&#x44b;&#x448;&#x442;&#x44b;&#x43f;</tspan></text>
+        <circle cx="2625.5" cy="3705.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2622 3714)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x448;&#x442;&#x44b;&#x43f;</tspan></text>
+        <circle cx="2599.5" cy="3731.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2596 3740)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x440;&#x442;&#x430;&#x43a;</tspan></text>
+        <circle cx="2573.5" cy="3757.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2570 3766)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x425;&#x430;&#x440;&#x430;&#x434;&#x436;&#x443;&#x43b;&#x44c;</tspan></text>
+        <circle cx="2547.5" cy="3783.5" r="2.5" fill="white" stroke="black" stroke-width="2"/>
+        <text transform="translate(2544 3792)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x440;&#x442;&#x430;&#x431;&#x430;&#x43d;</tspan></text>
+        <rect x="2518.93" y="3806.41" width="8" height="8" rx="1" transform="rotate(45 2518.93 3806.41)" fill="white" stroke="black" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="2487" y="3835.94">&#x410;&#x431;&#x430;&#x437;&#x430;</tspan></text>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="3771.65" y="3833.8">&#x421;&#x430;&#x44f;&#x43d;&#x43e;&#x433;&#x43e;&#x440;&#x441;&#x43a;</tspan></text>
+        <rect x="3853" y="3825.5" width="8" height="8" rx="1" fill="white" stroke="black" stroke-width="2"/>
+        <rect x="3893" y="3771" width="8" height="8" rx="1" fill="white" stroke="black" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="3907" y="3779.3">&#x41f;&#x440;&#x435;&#x434;&#x437;&#x430;&#x432;&#x43e;&#x434;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <text transform="translate(32 3495.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0" y="11.802">&#x41c;&#x435;&#x436;&#x434;&#x443;&#x440;&#x435;&#x447;&#x435;&#x43d;&#x441;&#x43a;-&#x41f;&#x430;&#x441;&#x441;.</tspan></text>
+        <rect x="33" y="3516.5" width="8" height="8" rx="1" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="85.5" cy="3527.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(82 3536)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x435;&#x43f;&#x43e;&#x432;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="198.5" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(202.071 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x43e;&#x440;&#x43e;&#x434;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="267.391" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(270.962 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x440;&#x430;&#x439;</tspan></text>
+        <circle cx="336.281" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(339.853 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x434;&#x43e;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="405.172" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(408.743 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">75 &#x43a;&#x43c;</tspan></text>
+        <circle cx="474.062" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(477.634 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41e;&#x437;&#x435;&#x440;&#x43a;&#x438;</tspan></text>
+        <circle cx="542.953" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(546.524 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">80 &#x43a;&#x43c;</tspan></text>
+        <circle cx="611.844" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(615.415 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x443;&#x43b;&#x44c;&#x436;&#x430;&#x43d;</tspan></text>
+        <circle cx="680.734" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(684.306 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x435;&#x43e;&#x43b;&#x43e;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="749.625" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(753.196 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x443;&#x434;&#x451;&#x43d;&#x44b;&#x439; &#x41f;&#x43b;&#x435;&#x441;</tspan></text>
+        <circle cx="818.516" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(822.087 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x43b;&#x44c;&#x441;&#x443;</tspan></text>
+        <circle cx="887.406" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(890.978 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x43e;&#x441;&#x438;&#x43d;&#x44b;&#x439; &#x41a;&#x430;&#x43c;&#x435;&#x43d;&#x44c;</tspan></text>
+        <circle cx="956.297" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(959.868 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x440;&#x441;&#x438;&#x43a;&#x438;</tspan></text>
+        <circle cx="1025.19" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1028.76 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x435;&#x431;&#x430;</tspan></text>
+        <circle cx="1094.08" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1097.65 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x440;&#x43e;&#x433;&#x438;</tspan></text>
+        <circle cx="1162.97" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1166.54 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43b;&#x438;&#x432;&#x435;&#x43d;&#x44c;</tspan></text>
+        <circle cx="1231.86" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1235.43 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x440;&#x438;&#x441;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="1300.75" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1304.32 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x443;&#x436;&#x431;&#x430;</tspan></text>
+        <circle cx="1369.64" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1373.21 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x43e;&#x43f;&#x447;&#x443;&#x43b;</tspan></text>
+        <circle cx="1438.53" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1442.1 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x443;&#x440;&#x431;&#x430;&#x437;&#x430; &#x201c;&#x412;&#x43e;&#x441;&#x445;&#x43e;&#x434;&#x201d;</tspan></text>
+        <circle cx="1507.42" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1510.99 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43b;&#x442;&#x430;&#x441;</tspan></text>
+        <circle cx="1576.31" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1579.88 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x430;&#x440;&#x44b;&#x448;</tspan></text>
+        <circle cx="1645.2" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1648.77 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x430;&#x43b;&#x44b;&#x43a;&#x441;&#x443;</tspan></text>
+        <circle cx="1714.09" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1717.67 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x43e;&#x440;&#x430;</tspan></text>
+        <circle cx="1782.98" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1786.56 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x437;&#x44b;&#x43d;&#x435;&#x442;</tspan></text>
+        <circle cx="1851.88" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1855.45 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x438;&#x441;&#x43a;&#x430;&#x43c;&#x436;&#x430;</tspan></text>
+        <circle cx="1926.47" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1930.04 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42f;&#x441;&#x43d;&#x430;&#x44f; &#x41f;&#x43e;&#x43b;&#x44f;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="1992.59" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1996.16 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x43b;&#x430;&#x442;&#x430;&#x443;</tspan></text>
+        <circle cx="2058.7" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2062.27 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x430;&#x43f;&#x430;&#x434;&#x43d;&#x44b;&#x439; &#x41f;&#x43e;&#x440;&#x442;&#x430;&#x43b;</tspan></text>
+        <circle cx="2124.81" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2128.38 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x430;&#x43d;&#x445;&#x447;&#x443;&#x43b;</tspan></text>
+        <circle cx="2190.93" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2194.5 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x425;&#x430;&#x431;&#x437;&#x430;&#x441;</tspan></text>
+        <circle cx="2257.04" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2260.61 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x430;&#x447;&#x438;</tspan></text>
+        <circle cx="2323.15" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2326.72 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x438;&#x440;&#x43a;&#x447;&#x443;&#x43b;</tspan></text>
+        <circle cx="2389.27" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2392.84 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42e;&#x433;&#x430;&#x447;&#x438;</tspan></text>
+        <circle cx="2455.38" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2458.95 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x441;&#x442;&#x43e;&#x440;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="2521.49" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2525.06 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x437;&#x430;&#x43d;&#x43e;&#x432;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="2587.61" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2591.18 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x435;&#x440;&#x445;&#x43d;&#x438;&#x439; &#x410;&#x441;&#x43a;&#x438;&#x437;</tspan></text>
+        <circle cx="2653.72" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2657.29 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x438;&#x437;&#x43b;&#x430;&#x441;</tspan></text>
+        <circle cx="2719.83" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2723.4 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x441;&#x43a;&#x438;&#x437;</tspan></text>
+        <circle cx="2785.95" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2789.52 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x43e;&#x43a;&#x43e;&#x43c;&#x43e;&#x442;&#x438;&#x432;&#x43d;&#x43e;&#x435; &#x414;&#x435;&#x43f;&#x43e;</tspan></text>
+        <circle cx="2852.06" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2855.63 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x420;&#x430;&#x437;&#x434;&#x43e;&#x43b;&#x44c;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="2918.17" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2921.74 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x430;&#x440;&#x442;&#x44b;&#x43a;&#x43e;&#x432;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="2984.5" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2988.07 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43c;&#x44b;&#x448;&#x442;&#x430;</tspan></text>
+        <circle cx="3050.4" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3053.97 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3116.51" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3120.08 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x439;&#x442;&#x430;&#x43a;</tspan></text>
+        <circle cx="3182.62" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3186.2 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x425;&#x430;&#x43d;&#x43a;&#x443;&#x43b;&#x44c;</tspan></text>
+        <circle cx="3248.74" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3252.31 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x438;&#x440;&#x431;&#x430;</tspan></text>
+        <circle cx="3314.85" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3318.42 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x430;&#x437;&#x430; &#x41c;&#x41a;</tspan></text>
+        <circle cx="3380.96" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3384.54 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x430;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3447.08" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3450.65 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x425;&#x43e;&#x43d;&#x44b;&#x445;</tspan></text>
+        <circle cx="3513.19" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3516.76 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x438;&#x433;&#x435;&#x439;</tspan></text>
+        <circle cx="3579.3" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3582.88 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x43e;&#x435; &#x41e;&#x437;&#x435;&#x440;&#x43e;</tspan></text>
+        <circle cx="3645.42" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3648.99 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x440;&#x43e;&#x436;&#x430;&#x439;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3711.53" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3715.1 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x420;&#x430;&#x439;&#x43e;&#x43d;&#x43d;&#x430;&#x44f; &#x41f;&#x43e;&#x434;&#x441;&#x442;&#x430;&#x43d;&#x446;&#x438;&#x44f;</tspan></text>
+        <circle cx="3777.64" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3781.22 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x448;&#x435;&#x431;&#x430;</tspan></text>
+        <circle cx="3843.76" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3847.33 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x443;&#x442;&#x435;&#x439;&#x441;&#x43a;&#x438;&#x439; &#x413;&#x43e;&#x440;&#x43e;&#x434;&#x43e;&#x43a;</tspan></text>
+        <circle cx="4249.5" cy="3366.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4246" y="3382.87">&#x421;&#x430;&#x434;&#x43e;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="4297.5" cy="3318.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4294" y="3334.87">&#x41c;&#x438;&#x43d;&#x443;&#x441;&#x438;&#x43d;&#x441;&#x43a;</tspan></text>
+        <circle cx="4345.5" cy="3270.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4342" y="3286.87">&#x422;&#x430;&#x433;&#x430;&#x440;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="4393.5" cy="3222.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4390" y="3238.87">&#x41a;&#x440;&#x443;&#x43f;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="4441.5" cy="3174.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4438" y="3190.87">&#x41a;&#x430;&#x43d;&#x44b;&#x433;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="4489.5" cy="3126.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4486" y="3142.87">&#x41a;&#x430;&#x437;&#x44b;&#x43b;&#x43a;&#x443;&#x43b;&#x44c;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="4537.5" cy="3078.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4534" y="3094.87">&#x41f;&#x438;&#x43e;&#x43d;&#x435;&#x440;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="4585.5" cy="3030.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4582" y="3046.87">&#x416;&#x435;&#x440;&#x43b;&#x44b;&#x43a;</tspan></text>
+        <circle cx="4633.5" cy="2982.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4630" y="2998.87">&#x428;&#x43e;&#x448;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="4681.5" cy="2934.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4678" y="2950.87">&#x422;&#x443;&#x431;&#x430;</tspan></text>
+        <circle cx="4729.5" cy="2886.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4726" y="2902.87">&#x41c;&#x430;&#x43b;&#x44c;&#x446;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="4777.5" cy="2838.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4774" y="2854.87">&#x420;&#x43e;&#x449;&#x430;</tspan></text>
+        <circle cx="4825.5" cy="2790.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4822" y="2806.87">&#x417;&#x430;&#x440;&#x435;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="4873.5" cy="2742.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4870" y="2758.87">&#x41a;&#x443;&#x440;&#x430;&#x433;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="4921.5" cy="2694.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4918" y="2710.87">&#x411;&#x435;&#x440;&#x451;&#x437;&#x43e;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="4969.5" cy="2646.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4966" y="2662.87">&#x418;&#x440;&#x431;&#x430;</tspan></text>
+        <circle cx="5017.5" cy="2598.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="5014" y="2614.87">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x44b;&#x439; &#x41a;&#x43e;&#x440;&#x434;&#x43e;&#x43d;</tspan></text>
+        <circle cx="5065.5" cy="2550.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5062" y="2566.87">&#x422;&#x43e;&#x43d;&#x43d;&#x435;&#x43b;&#x44c;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="5113.5" cy="2502.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5110" y="2518.87">&#x41a;&#x438;&#x437;&#x438;&#x440;</tspan></text>
+        <circle cx="5161.5" cy="2454.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5158" y="2470.87">&#x42f;&#x433;&#x43e;&#x434;&#x43d;&#x43e;&#x435;</tspan></text>
+        <circle cx="5209.5" cy="2406.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5206" y="2422.87">&#x416;&#x443;&#x440;&#x430;&#x432;&#x43b;&#x451;&#x432;&#x43e;</tspan></text>
+        <circle cx="5257.5" cy="2358.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5254" y="2374.87">&#x423;&#x441;&#x442;&#x44c;-&#x41a;&#x430;&#x441;&#x43f;&#x430;</tspan></text>
+        <circle cx="5305.5" cy="2310.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5302" y="2326.87">&#x41a;&#x430;&#x441;&#x43f;&#x430;</tspan></text>
+        <circle cx="5353.5" cy="2262.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5350" y="2278.87">557 &#x43a;&#x43c;</tspan></text>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="5318.5" y="2198.8">&#x41a;&#x43e;&#x448;&#x443;&#x440;&#x43d;&#x438;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <rect x="5395.77" y="2214.07" width="8" height="8" rx="1" transform="rotate(-45 5395.77 2214.07)" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <rect x="1855" y="926" width="8" height="8" rx="1" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1833" y="951.802">&#x411;&#x43e;&#x433;&#x43e;&#x442;&#x43e;&#x43b;</tspan></text>
+        <circle cx="1917.5" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1921.07 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x430;&#x432;&#x43e;&#x434;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="1994.07" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(1997.64 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x443;&#x43b;&#x434;&#x430;&#x442;</tspan></text>
+        <circle cx="2070.64" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2074.21 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x430;&#x433;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="2147.21" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2150.78 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x443;&#x439;&#x431;&#x44b;&#x448;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="2223.78" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2227.35 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x416;&#x443;&#x440;&#x430;&#x432;&#x43b;&#x438;&#x445;&#x430;</tspan></text>
+        <circle cx="2300.35" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2303.92 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x438;&#x442;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="2376.92" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2380.49 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x430;&#x44f; &#x420;&#x435;&#x447;&#x43a;&#x430;</tspan></text>
+        <circle cx="2453.49" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2457.06 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x435;&#x43f;&#x430;&#x43d;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="2530.06" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2533.63 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43b;&#x443;&#x431;&#x43d;&#x438;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="2606.63" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2610.2 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x435;&#x440;&#x446;&#x430;&#x43b;&#x44b;</tspan></text>
+        <circle cx="2683.2" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2686.77 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x430;&#x437;&#x430; &#x41f;&#x41c;&#x421;</tspan></text>
+        <circle cx="2759.77" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2763.34 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x43b;&#x44b;&#x439; &#x42f;&#x440;</tspan></text>
+        <circle cx="2836.34" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2839.92 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x430;&#x433;&#x43e;&#x440;&#x43d;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="2912.91" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2916.49 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x434;&#x441;&#x43e;&#x431;&#x43d;&#x43e;&#x435; &#x425;&#x43e;&#x437;&#x44f;&#x439;&#x441;&#x442;&#x432;&#x43e;</tspan></text>
+        <circle cx="2989.48" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(2993.06 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x443;&#x43b;&#x44b;&#x43c;</tspan></text>
+        <circle cx="3066.05" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3062.55 938.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x447;&#x438;&#x43d;&#x441;&#x43a;-1</tspan></text>
+        <circle cx="3142.62" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3146.2 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x440;&#x430;&#x43d;&#x441;&#x43f;&#x43e;&#x440;&#x442;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3219.2" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3222.77 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x43b;&#x44b;&#x440;&#x43a;&#x430;</tspan></text>
+        <circle cx="3295.77" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3299.34 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x440;&#x438;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="3372.34" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3375.91 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x440;&#x438;&#x431;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3448.91" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3452.48 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x437;&#x43b;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="3525.48" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3529.05 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x43a;&#x440;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="3602.05" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3605.62 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x440;&#x443;&#x442;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="3678.62" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3682.19 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x440;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="3755.19" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3758.76 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">3944 &#x43a;&#x43c;</tspan></text>
+        <circle cx="3831.76" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3835.33 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x431;&#x440;&#x44e;&#x43b;&#x44c;</tspan></text>
+        <circle cx="3908.33" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3911.9 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42e;&#x431;&#x438;&#x43b;&#x435;&#x439;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="3984.9" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3988.47 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x416;&#x435;&#x43b;&#x435;&#x437;&#x43d;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x436;&#x43d;&#x44b;&#x439; &#x41f;&#x43e;&#x441;&#x451;&#x43b;&#x43e;&#x43a;</tspan></text>
+        <circle cx="4061.47" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4065.04 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x435;&#x440;&#x43d;&#x43e;&#x440;&#x435;&#x447;&#x435;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="4115.16" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4118.73 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x440;&#x43f;&#x438;&#x446;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="4161.78" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4165.35 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x441;&#x442;&#x43e;&#x439;&#x43a;&#x430;</tspan></text>
+        <circle cx="4208.39" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4211.97 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x435;&#x441;&#x451;&#x43b;&#x430;&#x44f;</tspan></text>
+        <circle cx="4255.01" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4258.58 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x443;&#x448;&#x43a;&#x43e;&#x432;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="4301.63" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4305.2 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x430;&#x43b;&#x438;&#x43d;&#x43e;&#x433;&#x43e;&#x440;&#x43a;&#x430;</tspan></text>
+        <circle cx="4348.25" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4351.82 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43c;&#x435;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="4394.86" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4398.43 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x437;&#x443;&#x43b;&#x44c;&#x43a;&#x430;</tspan></text>
+        <circle cx="4441.48" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4445.05 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x427;&#x435;&#x440;&#x451;&#x43c;&#x443;&#x448;&#x43a;&#x438;</tspan></text>
+        <circle cx="4488.1" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4491.67 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x430;&#x440;&#x43b;&#x43e;&#x432;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="4534.71" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4538.29 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x438;&#x441;&#x442;&#x432;&#x44f;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="4581.33" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4584.9 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x441;&#x430;&#x447;&#x438;</tspan></text>
+        <circle cx="4627.95" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4631.52 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x440;&#x43e;&#x432;&#x43e;&#x439;</tspan></text>
+        <circle cx="4674.57" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4678.14 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x435;&#x43c;&#x447;&#x443;&#x433;</tspan></text>
+        <circle cx="4721.18" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4724.75 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x435;&#x440;&#x433;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="4767.8" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4771.37 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x43e;&#x440;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="4814.42" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4817.99 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x430;&#x434;&#x430;&#x43b;&#x43e;&#x436;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="4861.04" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4864.61 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x435;&#x43b;&#x435;&#x434;&#x435;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="4907.65" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4911.22 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x43e;&#x434;&#x43e;&#x440;&#x430;&#x437;&#x434;&#x435;&#x43b;</tspan></text>
+        <circle cx="4954.27" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4957.84 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x44e;&#x447;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="5000.89" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5004.46 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x435;&#x441;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="5047.5" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5051.08 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43a;&#x43e;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="5094.12" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5097.69 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x447;&#x430;</tspan></text>
+        <circle cx="5140.74" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5144.31 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x429;&#x435;&#x431;&#x451;&#x43d;&#x43e;&#x447;&#x43d;&#x44b;&#x439; &#x417;&#x430;&#x432;&#x43e;&#x434;</tspan></text>
+        <circle cx="5187.36" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5190.93 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x440;&#x43e;&#x441;&#x442;&#x435;&#x43d;&#x446;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="5233.97" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5237.54 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4056 &#x43a;&#x43c;</tspan></text>
+        <circle cx="5280.59" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5284.16 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x415;&#x43b;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="5327.21" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5330.78 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43d;&#x435;&#x436;&#x43d;&#x438;&#x446;&#x430;</tspan></text>
+        <circle cx="5373.82" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5377.4 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x420;&#x44f;&#x431;&#x438;&#x43d;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="5420.44" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5424.01 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x440;&#x430;&#x443;&#x43b;&#x44c;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="5467.06" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5470.63 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x438;&#x43d;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="5513.68" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5517.25 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x443;&#x433;&#x430;&#x447;&#x451;&#x432;&#x43e;</tspan></text>
+        <circle cx="5560.29" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5563.86 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x43b;&#x44f;&#x433;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="5606.91" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5610.48 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41e;&#x432;&#x438;&#x43d;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="6115.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6119.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x430;&#x437;&#x430;&#x438;&#x445;&#x430;</tspan></text>
+        <circle cx="6146.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6150.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4119 &#x43a;&#x43c;</tspan></text>
+        <text transform="translate(6168 1148)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x434;&#x44b;</tspan></text>
+        <circle cx="6171.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="6192" cy="1187" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1182)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4122 &#x43a;&#x43c;</tspan></text>
+        <circle cx="6192" cy="1202" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1197)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4123 &#x43a;&#x43c;</tspan></text>
+        <circle cx="6192" cy="1217" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1212)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x443;&#x445;&#x43e;&#x439;</tspan></text>
+        <circle cx="6192" cy="1232" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1227)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4127 &#x43a;&#x43c;</tspan></text>
+        <circle cx="6192" cy="1247" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1242)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x44b;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="6192" cy="1262" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1257)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x43e;&#x441;&#x442;&#x43e;&#x43a;</tspan></text>
+        <circle cx="6192" cy="1277" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1272)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x435;&#x442;&#x440;&#x44f;&#x448;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="6192" cy="1292" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6200.5 1287)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x420;&#x43e;&#x434;&#x43d;&#x438;&#x43a;&#x438;</tspan></text>
+        <circle cx="6218.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6222.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x430;&#x433;&#x430;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="6243.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6247.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x440;&#x435;&#x437;&#x43e;&#x432;&#x43a;&#x430; </tspan></text>
+        <circle cx="6267.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6271.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x443;&#x448;&#x443;&#x43d;</tspan></text>
+        <circle cx="6292.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6296.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x443;&#x433;&#x43e;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="6317.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6321.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43c;&#x430;&#x441;</tspan></text>
+        <circle cx="6338.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6342.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43e;&#x440;&#x43e;&#x43a;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="6359.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6363.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x43c;&#x430;&#x440;&#x43a;&#x430;</tspan></text>
+        <circle cx="6380.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6384.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x440;&#x430;&#x432;&#x430;&#x44f;</tspan></text>
+        <circle cx="6405.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6409.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x451;&#x436;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="6430.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6434.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x430;&#x440;&#x435;&#x447;&#x44c;&#x435;</tspan></text>
+        <circle cx="6455.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6459.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x43d;&#x43e;&#x43c;&#x430;&#x440;&#x451;&#x432;&#x43e;</tspan></text>
+        <circle cx="6476.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6480.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42e;&#x431;&#x438;&#x43b;&#x435;&#x439;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="6500.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6504.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43c;&#x430;&#x440;&#x447;&#x430;&#x433;&#x430;</tspan></text>
+        <circle cx="6524.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6528.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x415;&#x441;&#x430;&#x443;&#x43b;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="6545.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6549.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x438;&#x43d;&#x447;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="6569.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6573.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x438;&#x43d;&#x433;&#x438;&#x43d;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="6594.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6598.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x430;&#x43b;&#x430;&#x439;</tspan></text>
+        <circle cx="6614.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6618.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x440;&#x430;&#x431;&#x430;&#x440;&#x438;&#x43a;</tspan></text>
+        <circle cx="6634.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6638.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x441;&#x43e;&#x433;&#x43e;&#x440;</tspan></text>
+        <circle cx="6659.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6663.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x430;&#x440;&#x44c;&#x435;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="6684.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6688.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41e;&#x437;&#x435;&#x440;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="6709.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6713.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x430;&#x43b;&#x438;&#x432;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="6733.5" cy="1321" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6737.07 1329.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x443;&#x442;&#x435;&#x439;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="6757.5" cy="1290" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6766 1285)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x44f;&#x440;</tspan></text>
+        <text transform="translate(6675 1246)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x440;&#x435;&#x43e;&#x431;&#x440;&#x430;&#x436;&#x435;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="6757.5" cy="1251" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="6868.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6872.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x440;&#x43e;&#x43c;&#x430;&#x434;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="6922.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6926.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x438;&#x431;&#x438;&#x440;&#x44f;&#x43a;</tspan></text>
+        <circle cx="6976.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6980.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x43b;&#x438;&#x433;&#x430;&#x43d;</tspan></text>
+        <circle cx="7030.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7034.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x430;&#x43b;&#x43e;&#x431;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="7085" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7088.57 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x430;&#x43e;&#x437;&#x451;&#x440;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="7121.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7125.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x440;&#x448;&#x430;</tspan></text>
+        <circle cx="7158.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7162.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42e;&#x436;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="7195.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7199.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43c;&#x430;&#x43b;&#x430;</tspan></text>
+        <circle cx="7232.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7236.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43c;&#x430;&#x43b;&#x438;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="7269.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7273.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43e;&#x43b;&#x43d;&#x435;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="7306.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7310.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x42f;&#x433;&#x43e;&#x434;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="7343.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7347.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43e;&#x43b;&#x44f;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="7380.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7384.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x430;&#x440;&#x430;&#x44f; &#x421;&#x43e;&#x43b;&#x44f;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="7417.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7421.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x435;&#x440;&#x435;&#x432;&#x430;&#x43b;</tspan></text>
+        <circle cx="7454.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7458.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x448;&#x43d;&#x44f;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="7491.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7495.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x437;&#x432;&#x43e;&#x434;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="7528.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7532.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x43c;&#x430;&#x440;&#x43e;&#x432;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="7565.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7569.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x424;&#x438;&#x43b;&#x438;&#x43c;&#x43e;&#x43d;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="7602.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7606.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x424;&#x435;&#x440;&#x43c;&#x430;</tspan></text>
+        <circle cx="7639.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7643.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x44b;&#x439; &#x41c;&#x430;&#x44f;&#x43a;</tspan></text>
+        <circle cx="7676.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7680.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x44d;&#x440;&#x43e;&#x434;&#x440;&#x43e;&#x43c;</tspan></text>
+        <circle cx="7713.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7717.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43d;&#x441;&#x43a;-&#x415;&#x43d;&#x438;&#x441;&#x435;&#x439;&#x441;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="7750.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7754.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43d;&#x441;&#x43a;-&#x41f;&#x435;&#x440;&#x435;&#x432;&#x43e;&#x437;</tspan></text>
+        <circle cx="7787.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7791.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x43b;&#x430;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="7824.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7828.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x430;&#x440;&#x430;&#x44f; &#x418;&#x43b;&#x430;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="7861.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7865.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x43e;&#x43d;&#x44c;&#x43a;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="7898.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7902.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x43e;&#x437;&#x438;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="7935.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7939.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x430;&#x43b;&#x430;&#x439;</tspan></text>
+        <circle cx="7972.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(7976.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x451;&#x43f;&#x43b;&#x44b;&#x435; &#x41a;&#x43b;&#x44e;&#x447;&#x438;</tspan></text>
+        <circle cx="8009.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8013.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41b;&#x443;&#x433;&#x43e;&#x432;&#x44b;&#x435;</tspan></text>
+        <circle cx="8046.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8050.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x43b;&#x430;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="8084.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8088.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x443;&#x437;&#x44e;&#x43a;</tspan></text>
+        <circle cx="8121.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8125.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x430;&#x447;&#x43d;&#x430;&#x44f;</tspan></text>
+        <circle cx="8158.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8162.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x430;&#x439;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="8195.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8199.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x443;&#x43b;&#x435;&#x43c;&#x43a;&#x430;</tspan></text>
+        <circle cx="8232.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8236.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x435;&#x440;&#x445;&#x43d;&#x438;&#x439; &#x418;&#x43d;&#x433;&#x430;&#x448;</tspan></text>
+        <circle cx="8269.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8273.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x418;&#x43d;&#x433;&#x430;&#x448;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="8306.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8310.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x443;&#x440;&#x443;&#x43f;</tspan></text>
+        <circle cx="8343.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8347.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4409 &#x43a;&#x43c;</tspan></text>
+        <circle cx="8376.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8380.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43e;&#x439;&#x43c;&#x430;</tspan></text>
+        <circle cx="8413.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8417.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x430;&#x440;&#x431;&#x44b;&#x448;</tspan></text>
+        <circle cx="8450.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8454.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x430;&#x43a;&#x441;&#x438;&#x43c;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="8487.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8491.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x438;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="8524.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8528.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x440;&#x438;&#x431;&#x44b;&#x43b;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="8561.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8565.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x414;&#x43e;&#x433;&#x430;&#x434;&#x430;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="8598.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8602.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">4443 &#x43a;&#x43c;</tspan></text>
+        <circle cx="8635.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(8639.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x44b;&#x439; &#x411;&#x43e;&#x440;</tspan></text>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="8676" y="1160.8">&#x420;&#x435;&#x448;&#x43e;&#x442;&#x44b;-&#x42e;&#x436;&#x43d;&#x44b;&#x435;</tspan></text>
+        <rect x="8677.41" y="1176.07" width="8" height="8" rx="1" transform="rotate(-45 8677.41 1176.07)" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="3030.5" cy="1231" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="3039" y="1233.87">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x430;&#x44f; &#x421;&#x43e;&#x43f;&#x43a;&#x430;</tspan></text>
+        <circle cx="3030.5" cy="1198" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="3039" y="1200.87">&#x413;&#x43b;&#x44f;&#x434;&#x435;&#x43d;&#x44c;</tspan></text>
+        <circle cx="3030.5" cy="1165" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="3039" y="1167.87">&#x421;&#x435;&#x440;&#x435;&#x436;</tspan></text>
+        <circle cx="3030.5" cy="1132" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="3039" y="1134.87">&#x41d;&#x430;&#x437;&#x430;&#x440;&#x43e;&#x432;&#x43e;</tspan></text>
+        <circle cx="3030.5" cy="1099" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="3039" y="1101.87">&#x427;&#x443;&#x43b;&#x44b;&#x43c;&#x43a;&#x430;</tspan></text>
+        <circle cx="3030.5" cy="1066" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="3039" y="1068.87">&#x423;&#x43b;&#x443;&#x439;</tspan></text>
+        <circle cx="3030.5" cy="1033" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="3039" y="1035.87">&#x41f;&#x440;&#x438;&#x433;&#x43e;&#x440;&#x43e;&#x434;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="3030.5" cy="1000" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="3039" y="1002.87">&#x410;&#x447;&#x438;&#x43d;&#x441;&#x43a;-2</tspan></text>
+        <circle cx="3130.5" cy="899.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3127 908)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x438;&#x43c;&#x43e;&#x43d;&#x438;&#x43d;&#x43e;</tspan></text>
+        <text transform="translate(6785 1206.5)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x43e;&#x432;&#x43e;&#x43f;&#x44f;&#x442;&#x43d;&#x438;&#x446;&#x43a;&#x438;&#x439;</tspan></text>
+        <circle cx="6788.5" cy="1225" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="6816.5" cy="1260" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6825 1255)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x430;&#x442;&#x44c;&#x44f;&#x43d;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="6816.5" cy="1323" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6825 1318)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x432;&#x434;&#x430;</tspan></text>
+        <circle cx="6816.5" cy="1386" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6825 1381)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x435;&#x440;&#x435;&#x44f;&#x441;&#x43b;&#x430;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="6816.5" cy="1449" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6825 1444)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43d;&#x435;&#x433;&#x438;&#x440;&#x451;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="6713" cy="1482.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6716.57 1491) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x430;&#x44f;&#x43d;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="6426" cy="1482.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6429.57 1491) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43b;&#x438;&#x43d;&#x43e;&#x432;&#x43a;&#x430;</tspan></text>
+        <circle cx="6155.5" cy="1482.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6159.07 1491) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x43e;&#x439;&#x431;&#x430;</tspan></text>
+        <circle cx="6073.5" cy="1542.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="6070" y="1558.87">&#x418;&#x43b;&#x435;&#x439;</tspan></text>
+        <circle cx="6025.5" cy="1590.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="6022" y="1606.87">&#x41a;&#x440;&#x430;&#x432;&#x447;&#x435;&#x43d;&#x43a;&#x43e;</tspan></text>
+        <circle cx="5977.5" cy="1638.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5974" y="1654.87">733 &#x43a;&#x43c;</tspan></text>
+        <circle cx="5929.5" cy="1686.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5926" y="1702.87">&#x41b;&#x443;&#x43a;&#x430;&#x448;&#x435;&#x432;&#x438;&#x447;</tspan></text>
+        <circle cx="5881.5" cy="1734.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5878" y="1750.87">&#x41a;&#x43e;&#x439;</tspan></text>
+        <circle cx="5833.5" cy="1782.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="5830" y="1798.87">&#x41e;&#x442;&#x440;&#x43e;&#x433;&#x438;</tspan></text>
+        <rect x="5776.41" y="1834.07" width="8" height="8" rx="1" transform="rotate(-45 5776.41 1834.07)" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="5775" y="1857.94">&#x41c;&#x430;&#x43d;&#x430;</tspan></text>
+        <circle cx="5824.5" cy="959.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5828.07 968) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x435;&#x432;&#x435;&#x440;&#x43d;&#x43e;&#x435; &#x448;&#x43e;&#x441;&#x441;&#x435;</tspan></text>
+        <circle cx="5857.5" cy="959.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5861.07 968) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x412;&#x43e;&#x434;&#x43e;&#x43f;&#x44c;&#x44f;&#x43d;&#x43e;&#x432;&#x430;</tspan></text>
+        <rect x="5914" y="955.5" width="8" height="8" rx="1" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="5928" y="963.802">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x43e;&#x44f;&#x440;&#x441;&#x43a;-&#x421;&#x435;&#x432;&#x435;&#x440;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="5743.2" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5746.77 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x438;&#x445;&#x438;&#x435; &#x417;&#x43e;&#x440;&#x438;</tspan></text>
+        <circle cx="5696.59" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5700.16 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x43e;&#x431;&#x440;&#x43e;&#x432;&#x44b;&#x439; &#x43b;&#x43e;&#x433;</tspan></text>
+        <circle cx="5649.97" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5653.54 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x43e;&#x44f;&#x440;&#x441;&#x43a;&#x438;&#x435; &#x421;&#x442;&#x43e;&#x43b;&#x431;&#x44b;</tspan></text>
+        <circle cx="5603.35" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5606.92 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x422;&#x443;&#x440;&#x431;&#x430;&#x437;&#x430;</tspan></text>
+        <circle cx="5556.73" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5560.31 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x43b;&#x438;&#x437;&#x43d;&#x435;&#x432;&#x43e;</tspan></text>
+        <circle cx="5510.12" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5513.69 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41e;&#x432;&#x441;&#x44f;&#x43d;&#x43a;&#x430;</tspan></text>
+        <circle cx="5463.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5467.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x43e;&#x43b;&#x43e;&#x434;&#x451;&#x436;&#x43d;&#x44b;&#x439;</tspan></text>
+        <circle cx="5413.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5417.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x423;&#x441;&#x442;&#x44c;-&#x41c;&#x430;&#x43d;&#x430;</tspan></text>
+        <circle cx="5366.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5370.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41d;&#x438;&#x436;&#x43d;&#x44f;&#x44f; &#x41c;&#x430;&#x43d;&#x430;</tspan></text>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="5231" y="1170.8">&#x414;&#x438;&#x432;&#x43d;&#x43e;&#x433;&#x43e;&#x440;&#x441;&#x43a;</tspan></text>
+        <rect x="5315" y="1162.5" width="8" height="8" rx="1" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="5653.53" cy="930" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5657.1 938.5) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41c;&#x44f;&#x441;&#x43e;&#x43a;&#x43e;&#x43c;&#x431;&#x438;&#x43d;&#x430;&#x442;</tspan></text>
+        <text transform="translate(5693 924)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x443;&#x433;&#x430;&#x447;</tspan></text>
+        <circle cx="5696.5" cy="942.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5744 975)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x430;&#x43b;&#x438;&#x43d;&#x438;&#x43d;&#x430;</tspan></text>
+        <circle cx="5747.5" cy="993.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <circle cx="5763.5" cy="1031" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5772 1026)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x443;&#x442;&#x435;&#x43f;&#x440;&#x43e;&#x432;&#x43e;&#x434;</tspan></text>
+        <circle cx="5763.5" cy="1059" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5772 1054)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x41a;&#x440;&#x430;&#x441;&#x43d;&#x43e;&#x44f;&#x440;&#x441;&#x43a;-&#x41f;&#x430;&#x441;&#x441;.</tspan></text>
+        <circle cx="5763.5" cy="1087" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5772 1082)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x416;&#x435;&#x43b;&#x435;&#x437;&#x43d;&#x43e;&#x434;&#x43e;&#x440;&#x43e;&#x436;&#x43d;&#x430;&#x44f; &#x431;&#x43e;&#x43b;&#x44c;&#x43d;&#x438;&#x446;&#x430;</tspan></text>
+        <circle cx="5763.5" cy="1138" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5772 1133)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x43b;&#x430;&#x442;&#x438;&#x43d;&#x443;&#x43c; &#x410;&#x440;&#x435;&#x43d;&#x430;</tspan></text>
+        <circle cx="5809.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5813.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x415;&#x43d;&#x438;&#x441;&#x435;&#x439;</tspan></text>
+        <circle cx="5853.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5857.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x411;&#x435;&#x43b;&#x44b;&#x435; &#x420;&#x43e;&#x441;&#x44b;</tspan></text>
+        <circle cx="5897.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5901.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x421;&#x442;&#x443;&#x434;&#x435;&#x43d;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="5941.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5945.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x435;&#x440;&#x432;&#x43e;&#x43c;&#x430;&#x439;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="5984.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(5988.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x417;&#x43b;&#x43e;&#x431;&#x438;&#x43d;&#x43e;</tspan></text>
+        <circle cx="6027.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6031.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41e;&#x43a;&#x442;&#x44f;&#x431;&#x440;&#x44c;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <circle cx="6071.5" cy="1166.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(6075.07 1175) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x428;&#x438;&#x43d;&#x43d;&#x44b;&#x439; &#x417;&#x430;&#x432;&#x43e;&#x434;</tspan></text>
+        <circle cx="3909.87" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3913.44 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x41f;&#x438;&#x442;&#x43e;&#x43c;&#x43d;&#x438;&#x43a;</tspan></text>
+        <circle cx="3975.98" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(3979.56 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="0" y="7.868">&#x413;&#x43e;&#x440;&#x43e;&#x434;&#x43e;&#x43a; &#x41f;&#x41c;&#x421;</tspan></text>
+        <circle cx="4042.1" cy="3520.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text transform="translate(4045.67 3529) rotate(45)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="600" letter-spacing="0em"><tspan x="0" y="7.868">&#x410;&#x431;&#x430;&#x43a;&#x430;&#x43d;</tspan></text>
+        <circle cx="4105.5" cy="3510.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4102" y="3526.87">&#x41c;&#x43e;&#x441;&#x442;&#x43e;&#x43e;&#x442;&#x440;&#x44f;&#x434;</tspan></text>
+        <circle cx="4153.5" cy="3462.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4150" y="3478.87">&#x41f;&#x43e;&#x434;&#x441;&#x438;&#x43d;&#x438;&#x439;</tspan></text>
+        <circle cx="4201.5" cy="3414.5" r="2.5" fill="white" stroke="#2B469D" stroke-width="2"/>
+        <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="8" font-weight="500" letter-spacing="0em"><tspan x="4198" y="3430.87">&#x415;&#x43d;&#x438;&#x441;&#x435;&#x439;&#x441;&#x43a;&#x430;&#x44f;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="511.25" y="3311.94">&#x41a;&#x415;&#x41c;&#x415;&#x420;&#x41e;&#x412;&#x421;&#x41a;&#x410;&#x42f;&#10;</tspan><tspan x="608.281" y="3389.94">&#x41e;&#x411;&#x41b;&#x410;&#x421;&#x422;&#x42c;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="1582.25" y="1495.94">&#x41a;&#x415;&#x41c;&#x415;&#x420;&#x41e;&#x412;&#x421;&#x41a;&#x410;&#x42f;&#10;</tspan><tspan x="1679.28" y="1573.94">&#x41e;&#x411;&#x41b;&#x410;&#x421;&#x422;&#x42c;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="1493" y="3371.94">&#x420;&#x415;&#x421;&#x41f;&#x423;&#x411;&#x41b;&#x418;&#x41a;&#x410;&#10;</tspan><tspan x="1563.12" y="3449.94">&#x425;&#x410;&#x41a;&#x410;&#x421;&#x418;&#x42f;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="3594" y="3280.94">&#x420;&#x415;&#x421;&#x41f;&#x423;&#x411;&#x41b;&#x418;&#x41a;&#x410;&#10;</tspan><tspan x="3664.12" y="3358.94">&#x425;&#x410;&#x41a;&#x410;&#x421;&#x418;&#x42f;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="1930.47" y="1103.94">&#x41a;&#x420;&#x410;&#x421;&#x41d;&#x41e;&#x42f;&#x420;&#x421;&#x41a;&#x418;&#x419;&#10;</tspan><tspan x="2125.62" y="1181.94">&#x41a;&#x420;&#x410;&#x419;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="7982.47" y="923.944">&#x41a;&#x420;&#x410;&#x421;&#x41d;&#x41e;&#x42f;&#x420;&#x421;&#x41a;&#x418;&#x419;&#10;</tspan><tspan x="8177.62" y="1001.94">&#x41a;&#x420;&#x410;&#x419;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="5148.47" y="1520.94">&#x41a;&#x420;&#x410;&#x421;&#x41d;&#x41e;&#x42f;&#x420;&#x421;&#x41a;&#x418;&#x419;&#10;</tspan><tspan x="5343.62" y="1598.94">&#x41a;&#x420;&#x410;&#x419;</tspan></text>
+        <text fill="#2A9C4A" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="64" font-weight="800" letter-spacing="0em"><tspan x="8380.06" y="130.944">&#x418;&#x420;&#x41a;&#x423;&#x422;&#x421;&#x41a;&#x410;&#x42f;&#10;</tspan><tspan x="8422.78" y="208.944">&#x41e;&#x411;&#x41b;&#x410;&#x421;&#x422;&#x42c;</tspan></text>
+        <text fill="#5E7796" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="40" font-weight="800" letter-spacing="0em"><tspan x="5826.24" y="1128.84">&#x41a;&#x420;&#x410;&#x421;&#x41d;&#x41e;&#x42f;&#x420;&#x421;&#x41a;</tspan></text>
+        <text fill="#5E7796" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="40" font-weight="800" letter-spacing="0em"><tspan x="3912.29" y="3490.84">&#x410;&#x411;&#x410;&#x41a;&#x410;&#x41d;</tspan></text>
+    </g>
+    <defs>
+    <clipPath id="clip0_401_2">
+    <rect width="8840" height="3864" fill="white"/>
+    </clipPath>
+    </defs>
+</svg>
