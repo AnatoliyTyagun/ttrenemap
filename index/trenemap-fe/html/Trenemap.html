@@ -5,17 +5,39 @@
         <link rel="stylesheet" href="Trenemap.css">
     </head>
     <body>
-        <object type="image/svg+xml" data="D:\ttrenemap\index\trenemap-fe\svg\!! trenemap.svg">
+        <!-- svg block -->
+        <object class="svg_svg" type="image/svg+xml" data="D:\ttrenemap\index\trenemap-fe\svg\!! trenemap.svg">
             <img src="D:\ttrenemap\index\trenemap-fe\svg\!! trenemap.svg">
         </object>
+        <!-- schedule block -->
         <div class="schedule">
-            <div class="name"></div>
-            <br>
-            <div class="region"></div>
-            <br>
-            <text>Расписание</text>
-            <br>
-            <div class="rasp_list"></div>
+            <div class="name" style="font-weight: bold; font-size: 40px; color: black; margin-left: auto; margin-right: auto;">
+                <p>___</p>
+            </div>
+
+            <div class="region" style="font-weight: bold; font-size: 20px; color: #2A9C4A;">
+                <p>___</p>
+            </div>
+
+            <p style="font-size: 20px; color: black;">Расписание</p>
+
+            <div class="rasp_list" style="text-align: left; margin: 10px; padding: 10px;">
+                <div class="data">
+                    <p style="font-size: 20px; font-weight: 600;">___</p>
+                </div>
+                <div class="list">
+                    <div class="block">
+                        <p style="font-weight: 800; font-size: 28px;">___</p>
+                        <p style="font-weight: 600; font-size: 20px;">___</p>
+                        <p style="font-weight: 400; font-size: 20px;">___</p>
+                    </div>
+                    <div class="block">
+                        <p style="font-weight: 800; font-size: 28px;">___</p>
+                        <p style="font-weight: 600; font-size: 20px;">___</p>
+                        <p style="font-weight: 400; font-size: 20px;">___</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <script src="Trenemap.js" async></script>
     </body>

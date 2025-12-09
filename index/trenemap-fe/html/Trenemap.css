@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.svg_svg {
+    z-index: -1;
+    position: relative;
+}
+
+.schedule {
+    left: 0;
+    top: 0;
+    /**/
+    border-right: 3px solid #2A9C4A;
+    border-left: 0;
+    border-bottom: 0;
+    border-top: 0;
+    background-color: white;
+    /**/
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    font-family: "Montserrat";
+    /**/
+    width: 480px;
+    height: auto;
+    position: fixed;
+    z-index: 1;
+}
+
+.block {
+    background-color: #E6E6E6;
+    width: 390px;
+    height: auto;
+    padding: 1px;
+    padding-left: 10px;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
