@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
     <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Trenemap — карта пригородников Красноярской ЖД</title>
         <link rel="stylesheet" href="Trenemap.css">
     </head>
@@ -9,36 +11,37 @@
         <object class="svg_svg" type="image/svg+xml" data="D:\ttrenemap\index\trenemap-fe\svg\!! trenemap.svg">
             <img src="D:\ttrenemap\index\trenemap-fe\svg\!! trenemap.svg">
         </object>
-        <!-- schedule block -->
-        <div class="schedule">
-            <div class="name" style="font-weight: bold; font-size: 40px; color: black; margin-left: auto; margin-right: auto;">
-                <p>___</p>
+        <!-- schedule and account block -->
+        <div class="sidebar" id="sidebar">
+            <div class="account" id="profile">
+                <p class="profile">Профиль</p> 
             </div>
-
-            <div class="region" style="font-weight: bold; font-size: 20px; color: #2A9C4A;">
-                <p>___</p>
-            </div>
-
-            <p style="font-size: 20px; color: black;">Расписание</p>
-
-            <div class="rasp_list" style="text-align: left; margin: 10px; padding: 10px;">
-                <div class="data">
-                    <p style="font-size: 20px; font-weight: 600;">___</p>
+            <div class="schedule">
+                <div class="name" style="font-weight: bold; font-size: 40px; color: black; margin-left: auto; margin-right: auto;">
+                    <p>Станция</p>
                 </div>
-                <div class="list">
-                    <div class="block">
-                        <p style="font-weight: 800; font-size: 28px;">___</p>
-                        <p style="font-weight: 600; font-size: 20px;">___</p>
-                        <p style="font-weight: 400; font-size: 20px;">___</p>
+
+                <div class="region" style="font-weight: bold; font-size: 20px; color: #2A9C4A;">
+                    <p>Регион</p>
+                </div>
+
+                <div class="rasp_list">
+                    <div class="data">
+                        <p style="font-size: 20px; font-weight: 600;">Дата</p>
                     </div>
-                    <div class="block">
-                        <p style="font-weight: 800; font-size: 28px;">___</p>
-                        <p style="font-weight: 600; font-size: 20px;">___</p>
-                        <p style="font-weight: 400; font-size: 20px;">___</p>
+                    <div class="list">
+                        <div class="block">
+                            <p class="lb_time">Время</p>
+                            <p class="lb_route">Направление</p>
+                            <p class="lb_num">Номер</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <script src="Trenemap.js" async></script>
+        <div class="sidebar_movement" id="sb_mov">
+            <p>▶</p>
+        </div>
+        <script src="Trenemap.js"></script>
     </body>
 </html>
