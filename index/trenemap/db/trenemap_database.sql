@@ -1,8 +1,3 @@
---
--- Файл сгенерирован с помощью SQLiteStudio v3.4.17 в Чт дек 4 01:56:03 2025
---
--- Использованная кодировка текста: System
---
 PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
 
@@ -43,12 +38,12 @@ INSERT INTO Stations (id, st_name, region) VALUES (32, 'Бельский', 'Кр
 INSERT INTO Stations (id, st_name, region) VALUES (33, 'Кемский', 'Красноярский край');
 INSERT INTO Stations (id, st_name, region) VALUES (34, 'Абалаково', 'Красноярский край');
 INSERT INTO Stations (id, st_name, region) VALUES (35, 'Лесосибирск-1', 'Красноярский край');
-INSERT INTO Stations (id, st_name, region) VALUES (36, 'Шушь', 'Красноярский край');
-INSERT INTO Stations (id, st_name, region) VALUES (37, 'Дубинино', 'Красноярский край');
-INSERT INTO Stations (id, st_name, region) VALUES (38, 'Инголь', 'Красноярский край');
-INSERT INTO Stations (id, st_name, region) VALUES (39, 'Полуторник', 'Кемеровская область');
-INSERT INTO Stations (id, st_name, region) VALUES (40, 'Саланга', 'Кемеровская область');
-INSERT INTO Stations (id, st_name, region) VALUES (41, 'Кия-Шалтырь', 'Кемеровская область');
+INSERT INTO Stations (id, st_name, region) VALUES (NULL, NULL, NULL);
+INSERT INTO Stations (id, st_name, region) VALUES (NULL, NULL, NULL);
+INSERT INTO Stations (id, st_name, region) VALUES (NULL, NULL, NULL);
+INSERT INTO Stations (id, st_name, region) VALUES (NULL, NULL, NULL);
+INSERT INTO Stations (id, st_name, region) VALUES (NULL, NULL, NULL);
+INSERT INTO Stations (id, st_name, region) VALUES (NULL, NULL, NULL);
 INSERT INTO Stations (id, st_name, region) VALUES (42, 'Бельтыры', 'Красноярский край');
 INSERT INTO Stations (id, st_name, region) VALUES (43, 'Ворошилово', 'Красноярский край');
 INSERT INTO Stations (id, st_name, region) VALUES (44, 'Усть-Есь', 'Красноярский край');
