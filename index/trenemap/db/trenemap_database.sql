@@ -308,6 +308,8 @@ INSERT INTO Stations (id, st_name, region) VALUES (349, 'Лукашевич', '�
 INSERT INTO Stations (id, st_name, region) VALUES (350, 'Кой', 'Красноярский край');
 INSERT INTO Stations (id, st_name, region) VALUES (351, 'Отроги', 'Красноярский край');
 INSERT INTO Stations (id, st_name, region) VALUES (352, 'Мана', 'Красноярский край');
+INSERT INTO Stations (id, st_name, region) VALUES (353, 'Юрты', 'Иркутская область')
+INSERT INTO Stations (id, st_name, region) VALUES (354, 'Тайшет', 'Иркутская область')
 INSERT INTO Stations (id, st_name, region) VALUES (500, 'Северное Шоссе', 'Красноярск');
 INSERT INTO Stations (id, st_name, region) VALUES (501, 'Водопьянова', 'Красноярск');
 INSERT INTO Stations (id, st_name, region) VALUES (502, 'Красноярск-Северный', 'Красноярск');
